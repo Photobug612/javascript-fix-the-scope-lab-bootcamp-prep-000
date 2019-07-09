@@ -33,6 +33,7 @@ var theFunk = funkyFunction()
 
 function funkyFunction();
 
+theFunk;
 
 
 
